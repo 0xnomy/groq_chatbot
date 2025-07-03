@@ -21,7 +21,7 @@ A blazing-fast, context-aware chatbot built with Python, Streamlit, and Groq-hos
 
 ---
 
-## Setup & Installation
+## Installation
 
 1. **Clone the repo:**
    ```bash
@@ -65,16 +65,6 @@ A blazing-fast, context-aware chatbot built with Python, Streamlit, and Groq-hos
 
 ---
 
-## UI/UX Highlights
-
-- **Sidebar:** Model selector, temperature slider, clear all button
-- **Main area:** Chat bubbles, avatars, welcome message, model description
-- **Streaming:** See responses as they're generated
-- **Download:** Export your chat in one click
-- **Average response time:** See how fast your model is
-
----
-
 ##  How Context & History Work
 
 - **All chat context is managed by the app** (not the model)
@@ -84,7 +74,7 @@ A blazing-fast, context-aware chatbot built with Python, Streamlit, and Groq-hos
 
 ---
 
-## Advanced Controls
+##  Controls
 
 - **Temperature:**
   - Lower = more focused, deterministic
